@@ -1,0 +1,19 @@
+{
+  "name": "oola",
+  "version": "1.0.0",
+  "description": "An npm package designed to accelerate development speed with essential tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jitenderji1137/oola.git"
+  },
+  "author": "jitenderji1137",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jitenderji1137/oola/issues"
+  },
+  "homepage": "https://github.com/jitenderji1137/oola#readme"
+}
